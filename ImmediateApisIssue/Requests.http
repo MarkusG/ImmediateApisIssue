@@ -1,0 +1,6 @@
+@ImmediateApisIssue_HostAddress = http://localhost:5036
+
+POST {{ImmediateApisIssue_HostAddress}}/working/
+
+###
+POST {{ImmediateApisIssue_HostAddress}}/broken/

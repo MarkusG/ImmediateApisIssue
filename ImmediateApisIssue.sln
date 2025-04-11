@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImmediateApisIssue", "ImmediateApisIssue\ImmediateApisIssue.csproj", "{CC285E37-12BF-4526-A60E-A58B39441B07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC285E37-12BF-4526-A60E-A58B39441B07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC285E37-12BF-4526-A60E-A58B39441B07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC285E37-12BF-4526-A60E-A58B39441B07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC285E37-12BF-4526-A60E-A58B39441B07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
